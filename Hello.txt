@@ -9,10 +9,16 @@ Hello PCX
 Hello ACD
 Hello GGZ
 Hello AGT
+<<<<<<< HEAD
 Hello SOI
 slut DLS
 Tschüss BSI
 =======
+=======
+slut DLS
+Helloo POR
+>>>>>>> 74ca61b0caf8b1a60c5552e4ddb8198f5856fabb
 Hello RFA
 slut DLS
 Tschüss BSI
+
