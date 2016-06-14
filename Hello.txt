@@ -1,9 +1,18 @@
+Und ich bin zuerst ... BSI
 Hello JMY
 Hello Cindy
+hello ISI
 Hello JMY2
 Hello PCX
 Hello ACD
 Hello AGT
+<<<<<<< HEAD
 Hello SOI
 slut DLS
 Tschüss BSI
+=======
+Hello RFA
+slut DLS
+Tschüss BSI
+
+>>>>>>> 4fde69e07d448cec33353876d638af9ac7cc3c7c
